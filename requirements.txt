@@ -59,3 +59,4 @@ tensorflow
 numpy
 pandas
 # Remove any specific version pins like ==0.31.0 if they keep causing errors
+Pillow
